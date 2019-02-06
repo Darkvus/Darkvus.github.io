@@ -18,30 +18,41 @@ body {
     top: 0;
     left: 0;
 }
-.my{
+#my{
     height: 180px;
     border-radius: 100%;
     border: 5px solid white;
     margin-bottom: 40px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
-.name{
+h1{
     color: white;
     font-weight: bold;
     letter-spacing: 0.1em;
-    font-size: 4em;
+    font-size: 7em;
     font-family: 'Open Sans';
     margin: -10px 0;
+    align-content: center;
 }
-.engineer{
+h3{
     color: white;
+    font-size: 4em;
     padding-bottom: 20px;
+    font-family: 'Open Sans';
+
     font-weight: thin;
+    align-content: center;
 }
-.content {
+#content {
     padding-top: 100px;
     padding-bottom: 40px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
+    align-content: center;
+
 }
 ul {
     list-style: none;
@@ -76,49 +87,49 @@ a {
 }
 
 @media (max-width: 450px) {
-ul {
-    text-align: center;
-}
-li {
-    border-radius: 0%;
-    border: none;
-    color: white;
-    margin: 8px;
-    display: block;
-    list-style: none;
-    margin: 10px 0px;
-    text-align: center;
-    height: auto;
-    width: auto;
-}
-li:hover {
-    background-color: none;
-    transition: none;
-}
-a {
-    text-align: justify;
-    border: 2px solid white;
-    border-radius: 5px;
-    color: white;
-    padding: 15px;
-    padding-left: 30px;
-    width: 70%;
-}
-a:hover {
-    -webkit-transition: 500ms;
-    -moz-transition: 500ms;
-    transition: 500ms;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    text-decoration: none;
-}
-.networks {
-    display: inline-block;
-    color: white;
-    font-family: Arial;
-    margin-left: 40px;
-}
-.content {
-    padding-top: 60px;
-}
+    ul {
+        text-align: center;
+    }
+    li {
+        border-radius: 0%;
+        border: none;
+        color: white;
+        margin: 8px;
+        display: block;
+        list-style: none;
+        margin: 10px 0px;
+        text-align: center;
+        height: auto;
+        width: auto;
+    }
+    li:hover {
+        background-color: none;
+        transition: none;
+    }
+    a {
+        text-align: justify;
+        border: 2px solid white;
+        border-radius: 5px;
+        color: white;
+        padding: 15px;
+        padding-left: 30px;
+        width: 70%;
+    }
+    a:hover {
+        -webkit-transition: 500ms;
+        -moz-transition: 500ms;
+        transition: 500ms;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        text-decoration: none;
+    }
+    .networks {
+        display: inline-block;
+        color: white;
+        font-family: Arial;
+        margin-left: 40px;
+    }
+    .content {
+        padding-top: 60px;
+    }
 }
