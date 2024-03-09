@@ -1,18 +1,18 @@
 <style>
-  @import url('path/to/styles.css');
+  @import url('assets/css/styles.css');
 </style>
 
-# Hello, I'm Darkvus 👋
+# Hello, I'm Darkvus ![octodark -icon](assets/img/octocat_48.png)
 
 I'm a passionate backend developer with a focus on Python programming. With hands-on experience in building robust and efficient solutions, I'm dedicated to enhancing the performance and scalability of applications.
 
 ## Key Skills 🚀
 
-- Backend development in Python using frameworks like Django and Flask.
+- Backend development in Python using frameworks like Django, FastApi and Typer.
 - Design and implementation of relational and non-relational databases (SQL, MongoDB).
 - Creation of RESTful APIs for seamless communication between services.
 - Optimization of queries and processes for improved application performance.
-- Integration of cloud storage systems such as AWS or Google Cloud.
+- Integration of cloud storage systems such as AWS.
 
 ## What Drives Me 🌟
 
@@ -20,9 +20,10 @@ My motivation lies in tackling complex challenges and finding elegant solutions.
 
 ## Highlighted Projects 🚀
 
-- **Custom CMS Development:** Created a bespoke Content Management System using Django.
-- **Authentication Service:** Implemented an authentication and authorization service based on JWT tokens.
-- **E-commerce API:** Designed a RESTful API to streamline communication between the frontend and backend of an e-commerce application.
+- **User Management:** Implemented a comprehensive user management system, ensuring security and efficiency in profile and permission administration.
+- **Teaching Projects:** Developed and managed educational initiatives, utilizing modern technologies to enhance the learning experience.
+- **Mobility:** Designed and executed a RESTful API to optimize communication between the frontend and backend of a mobility-focused application.
+
 
 ## Education 📚
 
@@ -32,6 +33,8 @@ I'm excited about the opportunity to contribute to the success of innovative pro
 
 Thank you for considering my profile! 🙌
 ## Technologies
-[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![GitHub CLI](https://img.shields.io/badge/GitHub-CLI-Yelow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-green?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![GitHub CLI](https://img.shields.io/badge/GitHub-CLI-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
