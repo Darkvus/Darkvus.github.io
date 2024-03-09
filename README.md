@@ -33,8 +33,8 @@ I'm excited about the opportunity to contribute to the success of innovative pro
 
 Thank you for considering my profile! 🙌
 ## Technologies
-[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]("https://git-scm.com/" target="_blank")
-[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-green?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/features/actions target="_blank")
-[![GitHub CLI](https://img.shields.io/badge/GitHub-CLI-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://cli.github.com/ target="_blank")
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/ target="_blank")
-[![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/ target="_blank")
+[![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-green?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/features/actions)
+[![GitHub CLI](https://img.shields.io/badge/GitHub-CLI-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://cli.github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/)
