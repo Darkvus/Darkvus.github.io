@@ -1,3 +1,7 @@
+<style>
+  @import url('path/to/styles.css');
+</style>
+
 # Hello, I'm Darkvus 👋
 
 I'm a passionate backend developer with a focus on Python programming. With hands-on experience in building robust and efficient solutions, I'm dedicated to enhancing the performance and scalability of applications.
